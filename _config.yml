@@ -1,0 +1,28 @@
+name: klphoto
+favicon: null
+layout_spectrum: 0.7531180460937321
+typography_spectrum: 0.8778466752264649
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9462131652981043
+  lightness: 0.3906791051849723
+  saturation: 0.9909222044516355
+  rhythmicContrast: 0.20873668603599072
+purpose: []
