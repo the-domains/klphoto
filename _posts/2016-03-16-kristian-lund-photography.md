@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kristian Lund Photography
-datePublished: '2016-03-16T12:41:07.678Z'
-dateModified: '2016-03-16T12:41:01.338Z'
+datePublished: '2016-03-16T12:45:55.025Z'
+dateModified: '2016-03-16T12:44:53.286Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-kristian-lund-photography.md
@@ -23,5 +23,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fadd568-ecc4-4d96-a5a4-4340eaa9efc8.jpg)
-
-Kristian Lund Photography
