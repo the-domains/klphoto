@@ -1,6 +1,6 @@
 name: klphoto
 favicon: null
-layout_spectrum: 0.24353
+layout_spectrum: 0.00301
 typography_spectrum: 0.52785
 title: Kristian Lund Photography
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.1875
   lightness: 0.625
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
